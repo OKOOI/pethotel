@@ -11295,3 +11295,50 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-top:60px;
   margin-left:48%;
 }
+
+.business-answer .content {
+  width:40%;
+  margin: 0 auto;
+  /* margin-left:30%; */
+  border-top: 2px solid #ffc800;
+  margin-bottom: 20px;
+}
+.business-answer h2 {
+  font-size:25px;
+  margin-bottom:40px;
+  padding-bottom:25px;
+  margin-top:25px;
+  border-bottom: 1px solid #ffc800;
+
+}
+
+.business-answer h3 {
+  font-size:20px;
+  margin-bottom:20px;
+}
+
+.business-answer p.comment-p {
+height:300px;
+border-bottom: 2px solid #ffc800;
+}
+
+.btn-answer {
+  margin-left:88%;
+}
+
+.business-answer p.comment-list {
+  height: 130px;
+  border-bottom: 1px dashed grey;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+
+}
+
+.business-answer .comment {
+  width:40%;
+  margin: 0 auto;
+}
+
+.business-answer .comment .form-control {
+  width:100%;
+}
