@@ -11342,3 +11342,32 @@ border-bottom: 2px solid #ffc800;
 .business-answer .comment .form-control {
   width:100%;
 }
+
+.business-qa_list {
+  width:60%;
+  margin:0 auto;
+}
+
+.business-qa_list table thead tr th, tbody tr th {
+  text-align: center;
+}
+
+.business-qa_list h2 {
+  font-size:30px;
+  margin-bottom:40px;
+}
+
+.caption-top tbody tr td {
+  padding-left:80px;
+}
+
+.caption-top tbody tr td a {
+  color:#333;
+  text-decoration: none;
+  display:block;
+}
+
+.business-qa_list .write {
+margin-top:15px;
+margin-left:92%;
+}
